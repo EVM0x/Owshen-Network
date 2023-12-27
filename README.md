@@ -3,7 +3,7 @@
 
 <img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-## 1.Firstly, you must have a wallet from Owshen Network that create on code workspace environments. In this case, writers using gitpod that connecting with writers github account. Create gitpod account with link below [Gitpod](www.gitpod.io)
+## 1.Firstly, you must have a wallet from Owshen Network that create on code workspace environments. In this case, writers using gitpod that connecting with writers github account. Create gitpod account with link below [Gitpod](https://www.gitpod.io/)
 
 
 ## 2.Create New Workspace 
