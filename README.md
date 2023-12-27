@@ -31,4 +31,4 @@
 ## 5.After you get owshen address, paste your address to owshen official twitter to get your first airdrop before testnet events launch. [TWITTER](https://twitter.com/OwshenNetwork/status/1739258666199449979?t=YC4moHVHaCZfC96-ahMWvw&s=19)
 
 
-                                                MARRY CHRISTMAS & HAPPY NEW YEAR 🔥🔥🔥
+                          MARRY CHRISTMAS & HAPPY NEW YEAR 🔥🔥🔥
